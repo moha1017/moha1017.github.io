@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+ header,footer{
+    background-color: lightblue;
+ }
+ .site-title {
+    color: aquamarine;
+ }
+#my-image{
+    box-shadow: 0px 0px 2px 1px;
+}
+
+.hobby{
+  list-style-type: square;
+}
+
+.hobby li:nth-child(1) {
+background-color: darkkhaki;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: darkcyan; 
+    border: 3px solid pink ;
+
+}
+
+nav a:hover{
+   color: cadetblue;
+}
