@@ -1,0 +1,52 @@
+html { background-color:  #aad4cf;
+    font-family: sans-serif;
+}
+
+body {
+    margin: auto;
+    width: 1024px;
+    background-color: #dce6e5;
+}
+
+h1 {
+    position: absolute;
+    top: 190px;
+    padding-left: 400px;
+    font-size: 45px;
+    color: #dce6e5;
+    font-weight: 80;
+}
+
+nav ul {
+    list-style: none;;
+    display:flex;
+   font-size: 32px;
+   }
+
+   nav li{
+    padding-right: 10px;
+    width: 70%;
+}
+
+
+.line{
+    border-left:solid;
+    border-right: solid;
+    padding-left: 100px;
+}
+
+
+.starfish img {
+    padding: 2px;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#textbox {
+    border: solid;
+}
+
+footer {
+    text-align: right;
+}
