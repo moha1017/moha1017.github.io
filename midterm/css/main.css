@@ -23,15 +23,21 @@ nav ul {
    font-size: 32px;
    }
 
-   nav li{
+   /* nav li{
     padding-right: 10px;
     width: 70%;
+} */
+
+nav li{
+    padding-top: 0;
+    padding-left: 110px;
+    padding-right: 110px;   
 }
 
 .line{
+    margin-right: 3rem;
     border-left:solid;
     border-right: solid;
-    padding-left: 100px;
 }
 
 .starfish img {
